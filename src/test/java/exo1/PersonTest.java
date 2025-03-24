@@ -22,6 +22,13 @@ class PersonTest {
         assertFalse(person.isAdult());
     }
 
+    @org.junit.jupiter.api.Test
+    public void testIsAdultWhenExactly18() {
+        Person person = new Person("Alex", "Smith", 18);
+        assertTrue(person.isAdult());
+    }
+
+
 
 
 }
