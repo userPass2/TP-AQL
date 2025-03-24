@@ -10,4 +10,12 @@ class PersonTest {
         assertEquals("John Doe", person.getFullName());
     }
 
+
+    @org.junit.jupiter.api.Test
+    public void testIsAdultWhenAdult() {
+        Person person = new Person("John", "Doe", 25);
+        assertTrue(person.isAdult());
+    }
+
+
 }
