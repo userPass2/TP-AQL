@@ -1,30 +1,30 @@
 package exo1;
 
 import static org.junit.jupiter.api.Assertions.*;
-
+import  org.junit.jupiter.api.Test ;
 class PersonTest {
 
-    @org.junit.jupiter.api.Test
+    @Test
     public void testGetFullName() {
-        Person person = new Person("John", "Doe", 25);
-        assertEquals("John Doe", person.getFullName());
+        Person person = new Person("azrty", "dell", 25);
+        assertEquals("azrty dell", person.getFullName());
     }
 
-    @org.junit.jupiter.api.Test
+    @Test
     public void testIsAdultWhenAdult() {
-        Person person = new Person("John", "Doe", 25);
+        Person person = new Person("azrty", "dell", 25);
         assertTrue(person.isAdult());
     }
 
-    @org.junit.jupiter.api.Test
+    @Test
     public void testIsAdultWhenMinor() {
-        Person person = new Person("Jane", "Doe", 16);
+        Person person = new Person("azrty", "dell", 16);
         assertFalse(person.isAdult());
     }
 
-    @org.junit.jupiter.api.Test
+    @Test
     public void testIsAdultWhenExactly18() {
-        Person person = new Person("Alex", "Smith", 18);
+        Person person = new Person("azrty", "dell", 18);
         assertTrue(person.isAdult());
     }
 

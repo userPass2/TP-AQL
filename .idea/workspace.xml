@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d64af08-74c7-448b-a688-b01c71b5f14d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exo0/BlackJack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exo0/CountLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exo0/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exo0/RomanNumeral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exo2/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exo4/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exo5/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exoBonus1/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exoBonus2/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exo0/BlackJackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exo0/CountLettersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exo0/LeapYearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exo0/RomanNumeralTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exo2/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exo4/PrimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exo5/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exoBonus1/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exoBonus2/MatrixTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exo1/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exo1/PersonTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ukyLtNGhKHjIvTfPwODIS7LVGs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.BankAccountTest.executor": "Run",
+    "JUnit.BankAccountTest.testDepositOverflow.executor": "Run",
+    "JUnit.BlackJackTest.executor": "Run",
+    "JUnit.CountLettersTest.executor": "Run",
+    "JUnit.FactorialTest.executor": "Run",
+    "JUnit.FibonacciTest.executor": "Run",
+    "JUnit.LeapYearTest.executor": "Run",
+    "JUnit.MatrixTest.executor": "Run",
+    "JUnit.PersonTest.executor": "Run",
+    "JUnit.PrimeTest.executor": "Run",
+    "JUnit.RomanNumeralTest.executor": "Run",
+    "JUnit.StackTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/tp/tp_assurance_ql/TP01/test_unitaire01",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="exo0" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="exoBonus2" />
+      <recent name="exoBonus1" />
+      <recent name="exo0" />
+      <recent name="exo5" />
+      <recent name="exo4" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BankAccountTest.testDepositOverflow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exoBonus1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exoBonus1" />
+      <option name="MAIN_CLASS_NAME" value="exoBonus1.BankAccountTest" />
+      <option name="METHOD_NAME" value="testDepositOverflow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankAccountTest.testDepositOverflow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d64af08-74c7-448b-a688-b01c71b5f14d" name="Changes" comment="" />
+      <created>1742806821164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742806821164</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initialiser">
+      <option name="closed" value="true" />
+      <created>1742807058197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742807058197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ajoute classe Person">
+      <option name="closed" value="true" />
+      <created>1742808510400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742808510400</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test methode GetFullName">
+      <option name="closed" value="true" />
+      <created>1742808651064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742808651064</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test methode isAdult case 1 : adult">
+      <option name="closed" value="true" />
+      <created>1742808717268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742808717268</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test methode isAdult case 2 : minor">
+      <option name="closed" value="true" />
+      <created>1742808780038</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742808780038</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test methode isAdult case 2 : Excatly 18">
+      <option name="closed" value="true" />
+      <created>1742808796352</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742808796353</updated>
+    </task>
+    <task id="LOCAL-00007" summary="teste de classe fibonacci">
+      <option name="closed" value="true" />
+      <created>1742815203165</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742815203165</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialiser" />
+    <MESSAGE value="ajoute classe Person" />
+    <MESSAGE value="test methode GetFullName" />
+    <MESSAGE value="test methode isAdult case 1 : adult" />
+    <MESSAGE value="test methode isAdult case 2 : minor" />
+    <MESSAGE value="test methode isAdult case 2 : Excatly 18" />
+    <MESSAGE value="teste de classe fibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste de classe fibonacci" />
+  </component>
+</project>
