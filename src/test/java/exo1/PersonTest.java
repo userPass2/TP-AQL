@@ -1,6 +1,8 @@
 package exo1;
 
 import static org.junit.jupiter.api.Assertions.*;
+
+import TP0.exo1.Person;
 import  org.junit.jupiter.api.Test ;
 class PersonTest {
 

@@ -1,6 +1,7 @@
 package exo2;
 
 
+import TP0.exo2.Stack;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

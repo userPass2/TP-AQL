@@ -1,6 +1,7 @@
 package exo4;
 
 
+import TP0.exo4.Prime;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 ;

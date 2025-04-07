@@ -1,6 +1,8 @@
 package exo5;
 
 import static org.junit.jupiter.api.Assertions.*;
+
+import TP0.exo5.Factorial;
 import org.junit.jupiter.api.Test;
 
 class FactorialTest {

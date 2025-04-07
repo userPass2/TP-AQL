@@ -1,4 +1,4 @@
-package exo4;
+package TP0.exo4;
 
 public class Prime {
 

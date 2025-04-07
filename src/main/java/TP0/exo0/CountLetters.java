@@ -1,4 +1,4 @@
-package exo0;
+package TP0.exo0;
 
 public class CountLetters {
     public int count(String str) {

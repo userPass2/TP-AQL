@@ -1,4 +1,4 @@
-package exo1;
+package TP0.exo1;
 
 public class Person {
     private String firstName;

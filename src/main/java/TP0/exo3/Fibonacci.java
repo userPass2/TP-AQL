@@ -1,4 +1,4 @@
-package exo3;
+package TP0.exo3;
 
 public class Fibonacci {
 

@@ -1,4 +1,4 @@
-package exoBonus2;
+package TP0.exoBonus2;
 
 public class Matrix {
 
