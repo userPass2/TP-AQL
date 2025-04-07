@@ -1,4 +1,4 @@
-package exoBonus1;
+package TP0.exoBonus1;
 
 
 import TP0.exoBonus1.BankAccount;

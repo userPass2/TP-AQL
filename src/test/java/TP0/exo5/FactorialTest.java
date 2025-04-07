@@ -1,4 +1,4 @@
-package exo5;
+package TP0.exo5;
 
 import static org.junit.jupiter.api.Assertions.*;
 

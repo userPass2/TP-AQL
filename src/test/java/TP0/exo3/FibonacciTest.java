@@ -1,4 +1,4 @@
-package exo3;
+package TP0.exo3;
 
 import TP0.exo3.Fibonacci;
 import org.junit.jupiter.api.Test;

@@ -1,6 +1,5 @@
-package exo0;
+package TP0.exo0;
 
-import TP0.exo0.LeapYear;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

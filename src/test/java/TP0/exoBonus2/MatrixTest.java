@@ -1,4 +1,4 @@
-package exoBonus2;
+package TP0.exoBonus2;
 
 import TP0.exoBonus2.Matrix;
 import org.junit.jupiter.api.BeforeEach;

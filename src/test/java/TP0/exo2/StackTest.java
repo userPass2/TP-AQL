@@ -1,4 +1,4 @@
-package exo2;
+package TP0.exo2;
 
 
 import TP0.exo2.Stack;
