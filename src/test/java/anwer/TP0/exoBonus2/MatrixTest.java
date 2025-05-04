@@ -14,7 +14,7 @@ class MatrixTest {
     void setUp() {
         // Initialisation des matrices de test
         matrix1 = new Matrix(2);
-        matrix1.set(0, 0, 1);
+        matrix1.set(0, 0,1);
         matrix1.set(0, 1, 2);
         matrix1.set(1, 0, 3);
         matrix1.set(1, 1, 4);
